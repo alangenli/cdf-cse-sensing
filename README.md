@@ -9,7 +9,7 @@ This is a code repository developed from June 2024 to March 2025 for the sensing
   - for working with single-peak tracking files from Luna or Safibra interrogators
 - f_TFBG.py
   - for working with TFBG spectra files
-- -f_IRF.py
+- f_IRF.py
   - for working with IR spectra files
 - f_graph.py
   - for generating plots
