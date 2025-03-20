@@ -16,11 +16,13 @@ This is a code repository developed from June 2024 to March 2025 for the sensing
 - f_math.py
   - collection of mathematical functions used by the other modules
 
-### SCRIPTS
-- script1_opt_cal.py
-- script2_opt_cal.py
+### BASIC DATA READING SCRIPTS
+- script1_FBG.py
 - script1_TFBG.py
-- script2_TFBG.py
 - script1_IRF.py
 
+### DATA PROCESSING SCRIPTS
+- script2_FBG.py
+- script2_TFBG.py
+- script2_IRF.py
 
