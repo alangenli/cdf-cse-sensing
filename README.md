@@ -13,6 +13,8 @@ This is a code repository developed from June 2024 to March 2025 for the sensing
   - for working with IR spectra files
 - f_graph.py
   - for generating plots
+- f_math.py
+  - collection of mathematical functions used by the other modules
 
 ### SCRIPTS
 - script1_opt_cal.py
