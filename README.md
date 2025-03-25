@@ -33,6 +33,7 @@ read_merge_electrochem.py
 
 ### DATA PROCESSING SCRIPTS
 Should be used after running the corresponding script1.
+
 script2_FBG.py
 - temperature calibration, thermal circuit identification from thermal pulsing
 
