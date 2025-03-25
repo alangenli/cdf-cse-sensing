@@ -37,7 +37,6 @@ Should be used after running the corresponding script1.
 script2_FBG.py
 - temperature calibration, thermal circuit identification from thermal pulsing
 
-script2_TFBG.py
-
-script2_IRF.py
+script2_IRF_MCR.py
+- multivariate curve resolution (based on work by C. Léau)
 
