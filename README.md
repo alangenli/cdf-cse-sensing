@@ -40,3 +40,6 @@ script2_FBG.py
 script2_IRF_MCR.py
 - multivariate curve resolution (based on work by C. Léau)
 
+script_analyze_cycle.py
+- used to split cycler data by cycle and calculate differentials
+
